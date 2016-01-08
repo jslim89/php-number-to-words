@@ -72,5 +72,3 @@ class NumberToWordsMalay
         return '';
     }
 }
-
-echo NumberToWordsMalay::toWords(121) . PHP_EOL;
